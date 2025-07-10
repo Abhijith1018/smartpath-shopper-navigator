@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Star, Plus, ArrowRight, ShoppingCart, MapPin, Clock } from 'lucide-react';
+import { Star, Plus, ArrowRight, ShoppingCart, MapPin, Clock, Map } from 'lucide-react';
 
 const HomeScreen: React.FC = () => {
   const cartItems = [
